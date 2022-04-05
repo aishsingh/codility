@@ -3,10 +3,12 @@ First Unique
 
 Find the first unique number in a given sequence.
 
-Scored
+Score
 ------
-* Scored 100%  
-* Passes all unit tests
+* Task score 72% 
+    * Correctness 100% 
+    * Performance 40%
+* Passes 11/14 unit tests, 3 large value unit tests timeout
 
 Solution
 --------
